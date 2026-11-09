@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+data/*
+!data/sinteticos/
+!data/sinteticos/base_rh_sintetica.csv
+outputs/
+*.xlsx
+*.xls
+Thumbs.db
+.DS_Store

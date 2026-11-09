@@ -1,0 +1,242 @@
+Cód Funcionário,Funcionário,Cargo,Tipo Contrato,Escolaridade,Situação,Data Admissão,Data Afastamento,Data Nascimento,Valor Salário
+SINT-0001,Pessoa sintética 0001,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Médio Completo,Trabalhando,2008-03-10,,1962-12-09,"R$ 4.500,00"
+SINT-0002,Pessoa sintética 0002,AUXILIAR DE PRODUÇÃO,Empregado,Superior Completo,Trabalhando,2022-03-10,,2004-12-18,18500.0
+SINT-0003,Pessoa sintética 0003,ANALISTA RECURSOS HUMANOS,Empregado,Superior Completo,Trabalhando,2017-03-10,,1966-04-08,
+SINT-0004,Pessoa sintética 0004,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Incompleto,Trabalhando,2025-03-10,,2006-11-23,valor inválido
+SINT-0005,Pessoa sintética 0005,VENDEDOR EM GERAL,Diretor,Ensino Médio Completo,Trabalhando,2006-03-10,,1978-01-25,"R$ 60.000,00"
+SINT-0006,Pessoa sintética 0006,ASSISTENTE FINANCEIRO,Aprendiz,Superior Incompleto,Trabalhando,2011-03-10,,,950.0
+SINT-0007,Pessoa sintética 0007,AUXILIAR DE LOGISTICA,Empregado,Pós-Graduação/Espec.Completo,Demitido,2009-03-10,,1983-06-20,"R$ 1.250,00"
+SINT-0008,Pessoa sintética 0008,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Superior Completo,Trabalhando,2014-03-10,,31/02/1990,1800.0
+SINT-0009,Pessoa sintética 0009,GERENTE DE MARKETING,Aprendiz,Ensino Médio Incompleto,Trabalhando,2027-01-01,,1997-04-23,"R$ 1.800,00"
+SINT-0010,Pessoa sintética 0010,CARGO A CONFERIR,Aprendiz,Superior Incompleto,Trabalhando,2004-03-10,,1966-04-28,1400.0
+SINT-0011,Pessoa sintética 0011,ASSISTENTE DE EXPORTAÇÃO,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2007-03-10,,1971-06-12,"R$ 1.800,00"
+SINT-0012,Pessoa sintética 0012,AUXILIAR DE PRODUÇÃO,Empregado,Ensino Médio Incompleto,,2025-03-10,,1999-11-06,4500.0
+SINT-0013,Pessoa sintética 0013,ANALISTA RECURSOS HUMANOS,CONTRATO A CONFERIR,Ensino Médio Completo,Trabalhando,2025-03-10,,1985-05-21,"R$ 1.800,00"
+SINT-0014,Pessoa sintética 0014,ANALISTA REDES E SISTEMAS PL,Empregado,CURSO A CONFERIR,Demitido,2011-03-10,2026-06-30,1975-01-26,12500.0
+SINT-0015,Pessoa sintética 0015,VENDEDOR EM GERAL,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,,,1974-10-23,"R$ 4.500,00"
+SINT-0016,Pessoa sintética 0016,ASSISTENTE FINANCEIRO,Estagiário,Ensino Médio Incompleto,Demitido,2008-03-10,1990-01-01,1986-11-15,950.0
+SINT-0017,Pessoa sintética 0017,AUXILIAR DE LOGISTICA,Diretor,Superior Completo,Trabalhando,2022-03-10,,1995-05-24,"R$ 450,00"
+SINT-0018,Pessoa sintética 0018,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Ensino Fundamental Completo,Férias,2018-03-10,2026-08-01,1984-04-05,950.0
+SINT-0019,Pessoa sintética 0019,SERRADOR I,Empregado,Superior Completo,Trabalhando,2022-03-10,,1970-11-06,"R$ 12.500,00"
+SINT-0020,Pessoa sintética 0020,COMPRADOR,Empregado,Superior Completo,Trabalhando,2017-03-10,,1985-07-20,6800.0
+SINT-0021,Pessoa sintética 0021,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Fundamental Completo,Demitido,2024-03-10,2026-06-30,2004-12-04,"R$ 9.800,00"
+SINT-0022,Pessoa sintética 0022,AUXILIAR DE PRODUÇÃO,Aprendiz,Ensino Médio Incompleto,Trabalhando,2006-03-10,,1988-03-15,1800.0
+SINT-0023,Pessoa sintética 0023,ANALISTA RECURSOS HUMANOS,Diretor,Ensino Médio Incompleto,Trabalhando,2021-03-10,,1967-11-10,"R$ 4.500,00"
+SINT-0024,Pessoa sintética 0024,ANALISTA REDES E SISTEMAS PL,Aprendiz,Ensino Médio Completo,Trabalhando,2017-03-10,,1971-09-25,1800.0
+SINT-0025,Pessoa sintética 0025,VENDEDOR EM GERAL,Estagiário,Ensino Médio Incompleto,Trabalhando,2010-03-10,,1962-02-12,"R$ 950,00"
+SINT-0026,Pessoa sintética 0026,ASSISTENTE FINANCEIRO,Diretor,Superior Completo,Trabalhando,2016-03-10,,1966-02-24,1800.0
+SINT-0027,Pessoa sintética 0027,AUXILIAR DE LOGISTICA,Empregado,Ensino Médio Completo,Trabalhando,2018-03-10,,1969-11-16,"R$ 2.800,00"
+SINT-0028,Pessoa sintética 0028,ENGENHEIRO DE MANUTENÇÃO I,Diretor,Pós-Graduação/Espec.Completo,Demitido,2025-03-10,2026-06-30,1999-07-07,4500.0
+SINT-0029,Pessoa sintética 0029,GERENTE DE MARKETING,Aprendiz,Superior Incompleto,Trabalhando,2015-03-10,,1986-11-21,"R$ 1.800,00"
+SINT-0030,Pessoa sintética 0030,COMPRADOR,Empregado,Superior Completo,Trabalhando,2011-03-10,,1976-04-03,1250.0
+SINT-0031,Pessoa sintética 0031,ASSISTENTE ADMINISTRATIVO,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2001-03-10,,1975-10-08,"R$ 1.800,00"
+SINT-0032,Pessoa sintética 0032,AUXILIAR DE PRODUÇÃO,Empregado,Superior Completo,Trabalhando,2011-03-10,,1975-02-02,1800.0
+SINT-0033,Pessoa sintética 0033,ANALISTA RECURSOS HUMANOS,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2007-03-10,,1978-11-16,"R$ 2.800,00"
+SINT-0034,Pessoa sintética 0034,ANALISTA REDES E SISTEMAS PL,Diretor,Ensino Médio Incompleto,Trabalhando,2022-03-10,,1997-08-08,12500.0
+SINT-0035,Pessoa sintética 0035,VENDEDOR EM GERAL,Empregado,Superior Incompleto,Demitido,2012-03-10,2026-06-30,1967-11-14,"R$ 12.500,00"
+SINT-0036,Pessoa sintética 0036,ASSISTENTE FINANCEIRO,Estagiário,Superior Incompleto,Trabalhando,2021-03-10,,1964-11-21,950.0
+SINT-0037,Pessoa sintética 0037,AUXILIAR DE LOGISTICA,Aprendiz,Superior Incompleto,Trabalhando,2007-03-10,,1967-04-07,"R$ 950,00"
+SINT-0038,Pessoa sintética 0038,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Completo,Trabalhando,2003-03-10,,1978-08-08,18500.0
+SINT-0039,Pessoa sintética 0039,GERENTE DE MARKETING,Empregado,Ensino Médio Incompleto,Trabalhando,2001-03-10,,1964-11-18,"R$ 1.800,00"
+SINT-0040,Pessoa sintética 0040,COMPRADOR,Empregado,Ensino Fundamental Completo,Trabalhando,2011-03-10,,1987-08-16,12500.0
+SINT-0041,Pessoa sintética 0041,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Médio Completo,Trabalhando,2011-03-10,,1985-01-13,"R$ 18.500,00"
+SINT-0042,Pessoa sintética 0042,AUXILIAR DE PRODUÇÃO,Estagiário,Ensino Médio Incompleto,Demitido,2025-03-10,2026-06-30,2005-12-26,950.0
+SINT-0043,Pessoa sintética 0043,ANALISTA RECURSOS HUMANOS,Aprendiz,Ensino Médio Completo,Trabalhando,2024-03-10,,1974-01-19,"R$ 1.800,00"
+SINT-0044,Pessoa sintética 0044,ANALISTA REDES E SISTEMAS PL,Empregado,Ensino Fundamental Completo,Trabalhando,2017-03-10,,1964-10-16,2800.0
+SINT-0045,Pessoa sintética 0045,VENDEDOR EM GERAL,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2020-03-10,,1966-03-03,"R$ 1.800,00"
+SINT-0046,Pessoa sintética 0046,ASSISTENTE FINANCEIRO,Empregado,Superior Completo,Trabalhando,2011-03-10,,1986-02-19,1250.0
+SINT-0047,Pessoa sintética 0047,AUXILIAR DE LOGISTICA,Empregado,Ensino Médio Completo,Trabalhando,2023-03-10,,1987-11-19,"R$ 9.800,00"
+SINT-0048,Pessoa sintética 0048,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Incompleto,Trabalhando,2022-03-10,,2003-12-11,6800.0
+SINT-0049,Pessoa sintética 0049,GERENTE DE MARKETING,Empregado,Ensino Fundamental Completo,Demitido,2024-03-10,2026-06-30,2003-11-10,"R$ 9.800,00"
+SINT-0050,Pessoa sintética 0050,COMPRADOR,Empregado,Superior Completo,Trabalhando,2011-03-10,,1990-10-19,1800.0
+SINT-0051,Pessoa sintética 0051,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Fundamental Completo,Trabalhando,2025-03-10,,1993-05-05,"R$ 9.800,00"
+SINT-0052,Pessoa sintética 0052,AUXILIAR DE PRODUÇÃO,Empregado,Superior Completo,Trabalhando,2016-03-10,,1984-05-06,6800.0
+SINT-0053,Pessoa sintética 0053,ANALISTA RECURSOS HUMANOS,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2018-03-10,,1961-11-27,"R$ 6.800,00"
+SINT-0054,Pessoa sintética 0054,ANALISTA REDES E SISTEMAS PL,Empregado,Ensino Médio Completo,Trabalhando,2004-03-10,,1969-05-04,2800.0
+SINT-0055,Pessoa sintética 0055,VENDEDOR EM GERAL,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2022-03-10,,1999-04-23,"R$ 1.800,00"
+SINT-0056,Pessoa sintética 0056,ASSISTENTE FINANCEIRO,Aprendiz,Pós-Graduação/Espec.Completo,Demitido,2025-03-10,2026-06-30,1993-08-09,950.0
+SINT-0057,Pessoa sintética 0057,AUXILIAR DE LOGISTICA,Estagiário,Ensino Médio Completo,Trabalhando,2011-03-10,,1978-01-01,"R$ 1.800,00"
+SINT-0058,Pessoa sintética 0058,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Ensino Fundamental Completo,Trabalhando,2020-03-10,,1989-09-23,1250.0
+SINT-0059,Pessoa sintética 0059,GERENTE DE MARKETING,Empregado,Superior Completo,Trabalhando,2023-03-10,,2005-03-18,"R$ 9.800,00"
+SINT-0060,Pessoa sintética 0060,COMPRADOR,Diretor,Ensino Médio Completo,Trabalhando,2002-03-10,,1970-07-05,6800.0
+SINT-0061,Pessoa sintética 0061,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Médio Completo,Trabalhando,2008-03-10,,1983-04-22,"R$ 1.800,00"
+SINT-0062,Pessoa sintética 0062,AUXILIAR DE PRODUÇÃO,Diretor,Ensino Médio Incompleto,Trabalhando,2009-03-10,,1987-10-24,4500.0
+SINT-0063,Pessoa sintética 0063,ANALISTA RECURSOS HUMANOS,Empregado,Pós-Graduação/Espec.Completo,Demitido,2015-03-10,2026-06-30,1987-01-06,"R$ 12.500,00"
+SINT-0064,Pessoa sintética 0064,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Incompleto,Trabalhando,2023-03-10,,1978-03-26,1800.0
+SINT-0065,Pessoa sintética 0065,VENDEDOR EM GERAL,Empregado,Ensino Médio Completo,Trabalhando,2023-03-10,,1991-04-07,"R$ 9.800,00"
+SINT-0066,Pessoa sintética 0066,ASSISTENTE FINANCEIRO,Empregado,Ensino Médio Completo,Trabalhando,2007-03-10,,1975-01-22,12500.0
+SINT-0067,Pessoa sintética 0067,AUXILIAR DE LOGISTICA,Aprendiz,Superior Completo,Trabalhando,2021-03-10,,1965-05-12,"R$ 1.800,00"
+SINT-0068,Pessoa sintética 0068,ENGENHEIRO DE MANUTENÇÃO I,Aprendiz,Ensino Fundamental Completo,Trabalhando,2006-03-10,,1962-02-09,950.0
+SINT-0069,Pessoa sintética 0069,GERENTE DE MARKETING,Diretor,Superior Completo,Trabalhando,2016-03-10,,1988-06-24,"R$ 12.500,00"
+SINT-0070,Pessoa sintética 0070,COMPRADOR,Diretor,Ensino Fundamental Completo,Demitido,2007-03-10,2026-06-30,1968-07-19,6800.0
+SINT-0071,Pessoa sintética 0071,ASSISTENTE ADMINISTRATIVO,Estagiário,Superior Incompleto,Trabalhando,2018-03-10,,1961-09-26,"R$ 1.400,00"
+SINT-0072,Pessoa sintética 0072,AUXILIAR DE PRODUÇÃO,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2023-03-10,,2003-06-20,1800.0
+SINT-0073,Pessoa sintética 0073,ANALISTA RECURSOS HUMANOS,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2017-03-10,,1993-05-22,"R$ 1.400,00"
+SINT-0074,Pessoa sintética 0074,ANALISTA REDES E SISTEMAS PL,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2020-03-10,,1996-03-07,1800.0
+SINT-0075,Pessoa sintética 0075,VENDEDOR EM GERAL,Empregado,Ensino Médio Completo,Trabalhando,2024-03-10,,2000-10-10,"R$ 1.250,00"
+SINT-0076,Pessoa sintética 0076,ASSISTENTE FINANCEIRO,Aprendiz,Superior Incompleto,Trabalhando,2019-03-10,,1974-07-26,1400.0
+SINT-0077,Pessoa sintética 0077,AUXILIAR DE LOGISTICA,Estagiário,Ensino Fundamental Completo,Demitido,2025-03-10,2026-06-30,2004-04-17,"R$ 1.800,00"
+SINT-0078,Pessoa sintética 0078,ENGENHEIRO DE MANUTENÇÃO I,Aprendiz,Ensino Médio Incompleto,Trabalhando,2020-03-10,,1993-11-21,950.0
+SINT-0079,Pessoa sintética 0079,GERENTE DE MARKETING,Aprendiz,Superior Incompleto,Trabalhando,2001-03-10,,1975-04-05,"R$ 950,00"
+SINT-0080,Pessoa sintética 0080,COMPRADOR,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2021-03-10,,1965-08-14,4500.0
+SINT-0081,Pessoa sintética 0081,ASSISTENTE ADMINISTRATIVO,Estagiário,Superior Incompleto,Trabalhando,2014-03-10,,1992-07-08,"R$ 950,00"
+SINT-0082,Pessoa sintética 0082,AUXILIAR DE PRODUÇÃO,Empregado,Superior Completo,Trabalhando,2015-03-10,,1972-12-17,1250.0
+SINT-0083,Pessoa sintética 0083,ANALISTA RECURSOS HUMANOS,Empregado,Superior Incompleto,Trabalhando,2015-03-10,,1968-08-05,"R$ 9.800,00"
+SINT-0084,Pessoa sintética 0084,ANALISTA REDES E SISTEMAS PL,Diretor,Ensino Médio Incompleto,Demitido,2025-03-10,2026-06-30,1993-07-27,18500.0
+SINT-0085,Pessoa sintética 0085,VENDEDOR EM GERAL,Estagiário,Superior Incompleto,Trabalhando,2014-03-10,,1989-05-25,"R$ 1.800,00"
+SINT-0086,Pessoa sintética 0086,ASSISTENTE FINANCEIRO,Empregado,Ensino Médio Incompleto,Trabalhando,2023-03-10,,1978-08-03,6800.0
+SINT-0087,Pessoa sintética 0087,AUXILIAR DE LOGISTICA,Aprendiz,Ensino Médio Incompleto,Trabalhando,2003-03-10,,1982-06-18,"R$ 950,00"
+SINT-0088,Pessoa sintética 0088,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Superior Incompleto,Trabalhando,2023-03-10,,2005-03-23,1400.0
+SINT-0089,Pessoa sintética 0089,GERENTE DE MARKETING,Aprendiz,Superior Incompleto,Trabalhando,2013-03-10,,1995-08-14,"R$ 1.400,00"
+SINT-0090,Pessoa sintética 0090,COMPRADOR,Diretor,Superior Incompleto,Trabalhando,2025-03-10,,2005-01-28,12500.0
+SINT-0091,Pessoa sintética 0091,ASSISTENTE ADMINISTRATIVO,Empregado,Superior Completo,Demitido,2013-03-10,2026-06-30,1983-05-25,"R$ 12.500,00"
+SINT-0092,Pessoa sintética 0092,AUXILIAR DE PRODUÇÃO,Diretor,Superior Incompleto,Trabalhando,2020-03-10,,1999-04-16,6800.0
+SINT-0093,Pessoa sintética 0093,ANALISTA RECURSOS HUMANOS,Estagiário,Ensino Médio Incompleto,Trabalhando,2022-03-10,,1962-07-11,"R$ 1.800,00"
+SINT-0094,Pessoa sintética 0094,ANALISTA REDES E SISTEMAS PL,Estagiário,Superior Completo,Trabalhando,2001-03-10,,1969-10-18,1800.0
+SINT-0095,Pessoa sintética 0095,VENDEDOR EM GERAL,Empregado,Ensino Médio Incompleto,Trabalhando,2005-03-10,,1966-11-14,"R$ 18.500,00"
+SINT-0096,Pessoa sintética 0096,ASSISTENTE FINANCEIRO,Empregado,Ensino Médio Completo,Trabalhando,2007-03-10,,1977-07-11,18500.0
+SINT-0097,Pessoa sintética 0097,AUXILIAR DE LOGISTICA,Aprendiz,Superior Incompleto,Trabalhando,2016-03-10,,1985-05-25,"R$ 950,00"
+SINT-0098,Pessoa sintética 0098,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Pós-Graduação/Espec.Completo,Demitido,2016-03-10,2026-06-30,1995-01-12,1800.0
+SINT-0099,Pessoa sintética 0099,GERENTE DE MARKETING,Empregado,Ensino Médio Incompleto,Trabalhando,2001-03-10,,1962-04-07,"R$ 2.800,00"
+SINT-0100,Pessoa sintética 0100,COMPRADOR,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2015-03-10,,1991-11-04,18500.0
+SINT-0101,Pessoa sintética 0101,ASSISTENTE ADMINISTRATIVO,Aprendiz,Ensino Médio Completo,Trabalhando,2021-03-10,,1984-03-20,"R$ 950,00"
+SINT-0102,Pessoa sintética 0102,AUXILIAR DE PRODUÇÃO,Empregado,Superior Incompleto,Trabalhando,2025-03-10,,1998-01-10,12500.0
+SINT-0103,Pessoa sintética 0103,ANALISTA RECURSOS HUMANOS,Empregado,Ensino Fundamental Completo,Trabalhando,2021-03-10,,1965-10-23,"R$ 4.500,00"
+SINT-0104,Pessoa sintética 0104,ANALISTA REDES E SISTEMAS PL,Aprendiz,Superior Completo,Trabalhando,2022-03-10,,2004-10-26,1400.0
+SINT-0105,Pessoa sintética 0105,VENDEDOR EM GERAL,Estagiário,Superior Incompleto,Demitido,2025-03-10,2026-06-30,2003-06-03,"R$ 950,00"
+SINT-0106,Pessoa sintética 0106,ASSISTENTE FINANCEIRO,Estagiário,Ensino Médio Incompleto,Trabalhando,2021-03-10,,1967-07-12,1800.0
+SINT-0107,Pessoa sintética 0107,AUXILIAR DE LOGISTICA,Estagiário,Superior Completo,Trabalhando,2021-03-10,,1972-12-17,"R$ 1.800,00"
+SINT-0108,Pessoa sintética 0108,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Ensino Fundamental Completo,Trabalhando,2016-03-10,,1990-07-27,950.0
+SINT-0109,Pessoa sintética 0109,GERENTE DE MARKETING,Aprendiz,Ensino Fundamental Completo,Trabalhando,2021-03-10,,1989-04-25,"R$ 1.400,00"
+SINT-0110,Pessoa sintética 0110,COMPRADOR,Estagiário,Ensino Médio Completo,Trabalhando,2007-03-10,,1981-03-16,1400.0
+SINT-0111,Pessoa sintética 0111,ASSISTENTE ADMINISTRATIVO,Aprendiz,Ensino Médio Incompleto,Trabalhando,2025-03-10,,1999-12-09,"R$ 1.800,00"
+SINT-0112,Pessoa sintética 0112,AUXILIAR DE PRODUÇÃO,Empregado,Pós-Graduação/Espec.Completo,Demitido,2016-03-10,2026-06-30,1976-12-14,4500.0
+SINT-0113,Pessoa sintética 0113,ANALISTA RECURSOS HUMANOS,Estagiário,Ensino Médio Completo,Trabalhando,2023-03-10,,2002-12-16,"R$ 950,00"
+SINT-0114,Pessoa sintética 0114,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Incompleto,Trabalhando,2013-03-10,,1986-12-08,9800.0
+SINT-0115,Pessoa sintética 0115,VENDEDOR EM GERAL,Diretor,Ensino Médio Completo,Trabalhando,2023-03-10,,1994-06-14,"R$ 9.800,00"
+SINT-0116,Pessoa sintética 0116,ASSISTENTE FINANCEIRO,Estagiário,Ensino Médio Incompleto,Trabalhando,2008-03-10,,1978-05-09,1800.0
+SINT-0117,Pessoa sintética 0117,AUXILIAR DE LOGISTICA,Aprendiz,Ensino Médio Incompleto,Trabalhando,2025-03-10,,1968-12-18,"R$ 950,00"
+SINT-0118,Pessoa sintética 0118,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Ensino Médio Incompleto,Trabalhando,2025-03-10,,1978-12-19,950.0
+SINT-0119,Pessoa sintética 0119,GERENTE DE MARKETING,Aprendiz,Superior Completo,Demitido,2010-03-10,2026-06-30,1975-06-06,"R$ 1.800,00"
+SINT-0120,Pessoa sintética 0120,COMPRADOR,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2018-03-10,,1978-01-02,6800.0
+SINT-0121,Pessoa sintética 0121,ASSISTENTE ADMINISTRATIVO,Empregado,Superior Completo,Trabalhando,2025-03-10,,2001-08-04,"R$ 1.250,00"
+SINT-0122,Pessoa sintética 0122,AUXILIAR DE PRODUÇÃO,Aprendiz,Ensino Médio Completo,Trabalhando,2019-03-10,,1991-08-15,950.0
+SINT-0123,Pessoa sintética 0123,ANALISTA RECURSOS HUMANOS,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2016-03-10,,1968-02-13,"R$ 1.800,00"
+SINT-0124,Pessoa sintética 0124,ANALISTA REDES E SISTEMAS PL,Empregado,Ensino Fundamental Completo,Trabalhando,2019-03-10,,1970-03-26,6800.0
+SINT-0125,Pessoa sintética 0125,VENDEDOR EM GERAL,Empregado,Superior Completo,Trabalhando,2014-03-10,,1968-09-25,"R$ 4.500,00"
+SINT-0126,Pessoa sintética 0126,ASSISTENTE FINANCEIRO,Estagiário,Superior Completo,Demitido,2025-03-10,2026-06-30,1989-08-10,1400.0
+SINT-0127,Pessoa sintética 0127,AUXILIAR DE LOGISTICA,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2004-03-10,,1964-10-24,"R$ 4.500,00"
+SINT-0128,Pessoa sintética 0128,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Ensino Médio Incompleto,Trabalhando,2006-03-10,,1977-11-03,4500.0
+SINT-0129,Pessoa sintética 0129,GERENTE DE MARKETING,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2014-03-10,,1965-03-01,"R$ 18.500,00"
+SINT-0130,Pessoa sintética 0130,COMPRADOR,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2016-03-10,,1991-05-02,6800.0
+SINT-0131,Pessoa sintética 0131,ASSISTENTE ADMINISTRATIVO,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2025-03-10,,2005-08-03,"R$ 1.400,00"
+SINT-0132,Pessoa sintética 0132,AUXILIAR DE PRODUÇÃO,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2021-03-10,,2003-04-14,4500.0
+SINT-0133,Pessoa sintética 0133,ANALISTA RECURSOS HUMANOS,Empregado,Ensino Médio Completo,Demitido,2002-03-10,2026-06-30,1978-03-03,"R$ 2.800,00"
+SINT-0134,Pessoa sintética 0134,ANALISTA REDES E SISTEMAS PL,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2016-03-10,,1997-05-15,18500.0
+SINT-0135,Pessoa sintética 0135,VENDEDOR EM GERAL,Aprendiz,Ensino Fundamental Completo,Trabalhando,2025-03-10,,2005-07-09,"R$ 1.400,00"
+SINT-0136,Pessoa sintética 0136,ASSISTENTE FINANCEIRO,Diretor,Ensino Fundamental Completo,Trabalhando,2011-03-10,,1963-07-24,6800.0
+SINT-0137,Pessoa sintética 0137,AUXILIAR DE LOGISTICA,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2019-03-10,,1975-11-27,"R$ 1.250,00"
+SINT-0138,Pessoa sintética 0138,ENGENHEIRO DE MANUTENÇÃO I,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2017-03-10,,1997-01-25,1800.0
+SINT-0139,Pessoa sintética 0139,GERENTE DE MARKETING,Estagiário,Superior Incompleto,Trabalhando,2014-03-10,,1978-03-19,"R$ 950,00"
+SINT-0140,Pessoa sintética 0140,COMPRADOR,Aprendiz,Superior Incompleto,Demitido,2008-03-10,2026-06-30,1987-06-11,1400.0
+SINT-0141,Pessoa sintética 0141,ASSISTENTE ADMINISTRATIVO,Estagiário,Ensino Fundamental Completo,Trabalhando,2025-03-10,,1979-11-13,"R$ 1.400,00"
+SINT-0142,Pessoa sintética 0142,AUXILIAR DE PRODUÇÃO,Aprendiz,Ensino Fundamental Completo,Trabalhando,2025-03-10,,1977-06-04,1800.0
+SINT-0143,Pessoa sintética 0143,ANALISTA RECURSOS HUMANOS,Diretor,Superior Completo,Trabalhando,2014-03-10,,1990-07-02,"R$ 9.800,00"
+SINT-0144,Pessoa sintética 0144,ANALISTA REDES E SISTEMAS PL,Estagiário,Superior Completo,Trabalhando,2019-03-10,,2001-08-25,1400.0
+SINT-0145,Pessoa sintética 0145,VENDEDOR EM GERAL,Empregado,Ensino Fundamental Completo,Trabalhando,2016-03-10,,1979-08-23,"R$ 1.800,00"
+SINT-0146,Pessoa sintética 0146,ASSISTENTE FINANCEIRO,Diretor,Superior Completo,Trabalhando,2010-03-10,,1976-12-06,1250.0
+SINT-0147,Pessoa sintética 0147,AUXILIAR DE LOGISTICA,Estagiário,Pós-Graduação/Espec.Completo,Demitido,2004-03-10,2026-06-30,1966-04-27,"R$ 950,00"
+SINT-0148,Pessoa sintética 0148,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Incompleto,Trabalhando,2018-03-10,,1992-12-10,12500.0
+SINT-0149,Pessoa sintética 0149,GERENTE DE MARKETING,Estagiário,Superior Completo,Trabalhando,2005-03-10,,1976-08-18,"R$ 950,00"
+SINT-0150,Pessoa sintética 0150,COMPRADOR,Diretor,Ensino Médio Completo,Trabalhando,2025-03-10,,1969-02-09,12500.0
+SINT-0151,Pessoa sintética 0151,ASSISTENTE ADMINISTRATIVO,Diretor,Superior Completo,Trabalhando,2024-03-10,,1978-01-10,"R$ 6.800,00"
+SINT-0152,Pessoa sintética 0152,AUXILIAR DE PRODUÇÃO,Diretor,Superior Completo,Trabalhando,2022-03-10,,2003-08-28,18500.0
+SINT-0153,Pessoa sintética 0153,ANALISTA RECURSOS HUMANOS,Estagiário,Ensino Médio Completo,Trabalhando,2025-03-10,,1983-06-18,"R$ 1.400,00"
+SINT-0154,Pessoa sintética 0154,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Incompleto,Demitido,2024-03-10,2026-06-30,2005-04-19,4500.0
+SINT-0155,Pessoa sintética 0155,VENDEDOR EM GERAL,Empregado,Superior Incompleto,Trabalhando,2023-03-10,,1981-12-16,"R$ 12.500,00"
+SINT-0156,Pessoa sintética 0156,ASSISTENTE FINANCEIRO,Empregado,Superior Incompleto,Trabalhando,2020-03-10,,1992-01-05,1800.0
+SINT-0157,Pessoa sintética 0157,AUXILIAR DE LOGISTICA,Empregado,Superior Incompleto,Trabalhando,2023-03-10,,1994-08-01,"R$ 2.800,00"
+SINT-0158,Pessoa sintética 0158,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Completo,Trabalhando,2009-03-10,,1965-08-26,9800.0
+SINT-0159,Pessoa sintética 0159,GERENTE DE MARKETING,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2022-03-10,,2002-02-28,"R$ 1.400,00"
+SINT-0160,Pessoa sintética 0160,COMPRADOR,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2014-03-10,,1995-01-20,1800.0
+SINT-0161,Pessoa sintética 0161,ASSISTENTE ADMINISTRATIVO,Aprendiz,Pós-Graduação/Espec.Completo,Demitido,2014-03-10,2026-06-30,1975-12-03,"R$ 1.800,00"
+SINT-0162,Pessoa sintética 0162,AUXILIAR DE PRODUÇÃO,Empregado,Ensino Fundamental Completo,Trabalhando,2016-03-10,,1989-03-23,1250.0
+SINT-0163,Pessoa sintética 0163,ANALISTA RECURSOS HUMANOS,Aprendiz,Ensino Médio Incompleto,Trabalhando,2012-03-10,,1964-05-12,"R$ 950,00"
+SINT-0164,Pessoa sintética 0164,ANALISTA REDES E SISTEMAS PL,Diretor,Ensino Médio Incompleto,Trabalhando,2010-03-10,,1987-10-22,2800.0
+SINT-0165,Pessoa sintética 0165,VENDEDOR EM GERAL,Empregado,Superior Completo,Trabalhando,2021-03-10,,2000-07-20,"R$ 18.500,00"
+SINT-0166,Pessoa sintética 0166,ASSISTENTE FINANCEIRO,Empregado,Ensino Médio Completo,Trabalhando,2009-03-10,,1975-08-21,18500.0
+SINT-0167,Pessoa sintética 0167,AUXILIAR DE LOGISTICA,Empregado,Ensino Fundamental Completo,Trabalhando,2025-03-10,,1990-05-22,"R$ 2.800,00"
+SINT-0168,Pessoa sintética 0168,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Ensino Médio Completo,Demitido,2021-03-10,2026-06-30,1983-10-10,1800.0
+SINT-0169,Pessoa sintética 0169,GERENTE DE MARKETING,Estagiário,Superior Incompleto,Trabalhando,2016-03-10,,1980-04-13,"R$ 950,00"
+SINT-0170,Pessoa sintética 0170,COMPRADOR,Diretor,Ensino Fundamental Completo,Trabalhando,2023-03-10,,1983-10-10,6800.0
+SINT-0171,Pessoa sintética 0171,ASSISTENTE ADMINISTRATIVO,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2022-03-10,,1978-01-19,"R$ 1.800,00"
+SINT-0172,Pessoa sintética 0172,AUXILIAR DE PRODUÇÃO,Estagiário,Ensino Médio Incompleto,Trabalhando,2012-03-10,,1979-04-20,1800.0
+SINT-0173,Pessoa sintética 0173,ANALISTA RECURSOS HUMANOS,Diretor,Pós-Graduação/Espec.Completo,Trabalhando,2024-03-10,,1977-11-25,"R$ 2.800,00"
+SINT-0174,Pessoa sintética 0174,ANALISTA REDES E SISTEMAS PL,Empregado,Ensino Fundamental Completo,Trabalhando,2021-03-10,,2001-11-02,18500.0
+SINT-0175,Pessoa sintética 0175,VENDEDOR EM GERAL,Diretor,Ensino Médio Completo,Demitido,2004-03-10,2026-06-30,1984-12-05,"R$ 6.800,00"
+SINT-0176,Pessoa sintética 0176,ASSISTENTE FINANCEIRO,Estagiário,Superior Completo,Trabalhando,2018-03-10,,1972-04-05,1800.0
+SINT-0177,Pessoa sintética 0177,AUXILIAR DE LOGISTICA,Aprendiz,Ensino Médio Completo,Trabalhando,2016-03-10,,1971-05-27,"R$ 1.800,00"
+SINT-0178,Pessoa sintética 0178,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Completo,Trabalhando,2015-03-10,,1990-02-05,12500.0
+SINT-0179,Pessoa sintética 0179,GERENTE DE MARKETING,Aprendiz,Ensino Médio Completo,Trabalhando,2009-03-10,,1966-07-01,"R$ 1.400,00"
+SINT-0180,Pessoa sintética 0180,COMPRADOR,Aprendiz,Ensino Médio Incompleto,Trabalhando,2021-03-10,,1998-07-27,1800.0
+SINT-0181,Pessoa sintética 0181,ASSISTENTE ADMINISTRATIVO,Estagiário,Ensino Fundamental Completo,Trabalhando,2011-03-10,,1962-10-18,"R$ 1.800,00"
+SINT-0182,Pessoa sintética 0182,AUXILIAR DE PRODUÇÃO,Estagiário,Ensino Fundamental Completo,Demitido,2024-03-10,2026-06-30,2005-05-21,950.0
+SINT-0183,Pessoa sintética 0183,ANALISTA RECURSOS HUMANOS,Empregado,Superior Completo,Trabalhando,2004-03-10,,1980-08-04,"R$ 4.500,00"
+SINT-0184,Pessoa sintética 0184,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Completo,Trabalhando,2024-03-10,,1985-08-12,12500.0
+SINT-0185,Pessoa sintética 0185,VENDEDOR EM GERAL,Empregado,Ensino Médio Completo,Trabalhando,2020-03-10,,1987-11-04,"R$ 12.500,00"
+SINT-0186,Pessoa sintética 0186,ASSISTENTE FINANCEIRO,Empregado,Ensino Médio Incompleto,Trabalhando,2024-03-10,,2005-06-07,18500.0
+SINT-0187,Pessoa sintética 0187,AUXILIAR DE LOGISTICA,Aprendiz,Superior Incompleto,Trabalhando,2018-03-10,,1967-11-12,"R$ 950,00"
+SINT-0188,Pessoa sintética 0188,ENGENHEIRO DE MANUTENÇÃO I,Aprendiz,Ensino Médio Incompleto,Trabalhando,2015-03-10,,1973-02-28,1800.0
+SINT-0189,Pessoa sintética 0189,GERENTE DE MARKETING,Diretor,Ensino Médio Incompleto,Demitido,2011-03-10,2026-06-30,1962-01-26,"R$ 4.500,00"
+SINT-0190,Pessoa sintética 0190,COMPRADOR,Diretor,Superior Completo,Trabalhando,2025-03-10,,1974-02-27,4500.0
+SINT-0191,Pessoa sintética 0191,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Médio Completo,Trabalhando,2005-03-10,,1975-06-25,"R$ 1.250,00"
+SINT-0192,Pessoa sintética 0192,AUXILIAR DE PRODUÇÃO,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2006-03-10,,1969-09-09,1800.0
+SINT-0193,Pessoa sintética 0193,ANALISTA RECURSOS HUMANOS,Empregado,Ensino Fundamental Completo,Trabalhando,2008-03-10,,1969-01-12,"R$ 9.800,00"
+SINT-0194,Pessoa sintética 0194,ANALISTA REDES E SISTEMAS PL,Empregado,Superior Completo,Trabalhando,2024-03-10,,1977-01-05,12500.0
+SINT-0195,Pessoa sintética 0195,VENDEDOR EM GERAL,Empregado,Superior Completo,Trabalhando,2025-03-10,,1965-08-15,"R$ 9.800,00"
+SINT-0196,Pessoa sintética 0196,ASSISTENTE FINANCEIRO,Diretor,Pós-Graduação/Espec.Completo,Demitido,2008-03-10,2026-06-30,1967-08-17,1250.0
+SINT-0197,Pessoa sintética 0197,AUXILIAR DE LOGISTICA,Diretor,Superior Incompleto,Trabalhando,2001-03-10,,1980-08-21,"R$ 1.250,00"
+SINT-0198,Pessoa sintética 0198,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Ensino Fundamental Completo,Trabalhando,2021-03-10,,1988-11-04,950.0
+SINT-0199,Pessoa sintética 0199,GERENTE DE MARKETING,Aprendiz,Pós-Graduação/Espec.Completo,Trabalhando,2019-03-10,,1999-03-03,"R$ 1.800,00"
+SINT-0200,Pessoa sintética 0200,COMPRADOR,Diretor,Superior Incompleto,Trabalhando,2020-03-10,,1996-12-11,6800.0
+SINT-0201,Pessoa sintética 0201,ASSISTENTE ADMINISTRATIVO,Diretor,Superior Incompleto,Trabalhando,2018-03-10,,1999-07-04,"R$ 4.500,00"
+SINT-0202,Pessoa sintética 0202,AUXILIAR DE PRODUÇÃO,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2015-03-10,,1975-07-11,1400.0
+SINT-0203,Pessoa sintética 0203,ANALISTA RECURSOS HUMANOS,Empregado,Ensino Médio Completo,Demitido,2022-03-10,2026-06-30,1981-07-11,"R$ 6.800,00"
+SINT-0204,Pessoa sintética 0204,ANALISTA REDES E SISTEMAS PL,Empregado,Ensino Fundamental Completo,Trabalhando,2022-03-10,,2004-08-03,1800.0
+SINT-0205,Pessoa sintética 0205,VENDEDOR EM GERAL,Estagiário,Ensino Fundamental Completo,Trabalhando,2012-03-10,,1967-12-24,"R$ 1.800,00"
+SINT-0206,Pessoa sintética 0206,ASSISTENTE FINANCEIRO,Diretor,Superior Incompleto,Trabalhando,2024-03-10,,1996-09-11,1800.0
+SINT-0207,Pessoa sintética 0207,AUXILIAR DE LOGISTICA,Aprendiz,Ensino Médio Completo,Trabalhando,2021-03-10,,2003-07-28,"R$ 1.800,00"
+SINT-0208,Pessoa sintética 0208,ENGENHEIRO DE MANUTENÇÃO I,Aprendiz,Superior Incompleto,Trabalhando,2007-03-10,,1967-10-17,1800.0
+SINT-0209,Pessoa sintética 0209,GERENTE DE MARKETING,Empregado,Ensino Fundamental Completo,Trabalhando,2018-03-10,,1967-06-28,"R$ 9.800,00"
+SINT-0210,Pessoa sintética 0210,COMPRADOR,Aprendiz,Pós-Graduação/Espec.Completo,Demitido,2021-03-10,2026-06-30,1997-04-26,1800.0
+SINT-0211,Pessoa sintética 0211,ASSISTENTE ADMINISTRATIVO,Aprendiz,Ensino Médio Completo,Trabalhando,2023-03-10,,1962-03-09,"R$ 1.400,00"
+SINT-0212,Pessoa sintética 0212,AUXILIAR DE PRODUÇÃO,Empregado,Ensino Fundamental Completo,Trabalhando,2022-03-10,,1972-03-19,12500.0
+SINT-0213,Pessoa sintética 0213,ANALISTA RECURSOS HUMANOS,Empregado,Superior Incompleto,Trabalhando,2024-03-10,,2001-01-03,"R$ 4.500,00"
+SINT-0214,Pessoa sintética 0214,ANALISTA REDES E SISTEMAS PL,Estagiário,Ensino Médio Completo,Trabalhando,2019-03-10,,1990-06-06,1800.0
+SINT-0215,Pessoa sintética 0215,VENDEDOR EM GERAL,Diretor,Superior Completo,Trabalhando,2019-03-10,,1999-02-02,"R$ 2.800,00"
+SINT-0216,Pessoa sintética 0216,ASSISTENTE FINANCEIRO,Empregado,Superior Incompleto,Trabalhando,2025-03-10,,2004-02-09,12500.0
+SINT-0217,Pessoa sintética 0217,AUXILIAR DE LOGISTICA,Diretor,Ensino Médio Completo,Demitido,2013-03-10,2026-06-30,1989-07-09,"R$ 1.800,00"
+SINT-0218,Pessoa sintética 0218,ENGENHEIRO DE MANUTENÇÃO I,Estagiário,Pós-Graduação/Espec.Completo,Trabalhando,2022-03-10,,1968-05-22,1800.0
+SINT-0219,Pessoa sintética 0219,GERENTE DE MARKETING,Aprendiz,Ensino Médio Incompleto,Trabalhando,2020-03-10,,1963-04-13,"R$ 950,00"
+SINT-0220,Pessoa sintética 0220,COMPRADOR,Aprendiz,Ensino Fundamental Completo,Trabalhando,2009-03-10,,1974-03-25,1400.0
+SINT-0221,Pessoa sintética 0221,ASSISTENTE ADMINISTRATIVO,Empregado,Superior Incompleto,Trabalhando,2015-03-10,,1992-12-14,"R$ 2.800,00"
+SINT-0222,Pessoa sintética 0222,AUXILIAR DE PRODUÇÃO,Diretor,Superior Incompleto,Trabalhando,2025-03-10,,2006-04-17,1800.0
+SINT-0223,Pessoa sintética 0223,ANALISTA RECURSOS HUMANOS,Empregado,Superior Completo,Trabalhando,2008-03-10,,1988-01-15,"R$ 9.800,00"
+SINT-0224,Pessoa sintética 0224,ANALISTA REDES E SISTEMAS PL,Estagiário,Ensino Fundamental Completo,Demitido,2025-03-10,2026-06-30,1997-07-23,1400.0
+SINT-0225,Pessoa sintética 0225,VENDEDOR EM GERAL,Estagiário,Ensino Médio Completo,Trabalhando,2020-03-10,,1962-06-06,"R$ 1.800,00"
+SINT-0226,Pessoa sintética 0226,ASSISTENTE FINANCEIRO,Empregado,Superior Completo,Trabalhando,2019-03-10,,1988-02-08,12500.0
+SINT-0227,Pessoa sintética 0227,AUXILIAR DE LOGISTICA,Empregado,Ensino Médio Completo,Trabalhando,2014-03-10,,1986-05-24,"R$ 4.500,00"
+SINT-0228,Pessoa sintética 0228,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Ensino Médio Completo,Trabalhando,2004-03-10,,1965-09-21,4500.0
+SINT-0229,Pessoa sintética 0229,GERENTE DE MARKETING,Aprendiz,Ensino Médio Incompleto,Trabalhando,2020-03-10,,2002-03-08,"R$ 1.400,00"
+SINT-0230,Pessoa sintética 0230,COMPRADOR,Empregado,Pós-Graduação/Espec.Completo,Trabalhando,2018-03-10,,1999-03-25,2800.0
+SINT-0231,Pessoa sintética 0231,ASSISTENTE ADMINISTRATIVO,Estagiário,Ensino Médio Completo,Demitido,2022-03-10,2026-06-30,1990-10-25,"R$ 1.800,00"
+SINT-0232,Pessoa sintética 0232,AUXILIAR DE PRODUÇÃO,Empregado,Ensino Médio Completo,Trabalhando,2021-03-10,,1989-02-16,6800.0
+SINT-0233,Pessoa sintética 0233,ANALISTA RECURSOS HUMANOS,Diretor,Superior Incompleto,Trabalhando,2003-03-10,,1964-06-17,"R$ 6.800,00"
+SINT-0234,Pessoa sintética 0234,ANALISTA REDES E SISTEMAS PL,Estagiário,Ensino Fundamental Completo,Trabalhando,2010-03-10,,1963-01-12,1800.0
+SINT-0235,Pessoa sintética 0235,VENDEDOR EM GERAL,Diretor,Superior Incompleto,Trabalhando,2024-03-10,,1999-09-13,"R$ 1.250,00"
+SINT-0236,Pessoa sintética 0236,ASSISTENTE FINANCEIRO,Diretor,Superior Completo,Trabalhando,2024-03-10,,2002-04-11,18500.0
+SINT-0237,Pessoa sintética 0237,AUXILIAR DE LOGISTICA,Empregado,Superior Completo,Trabalhando,2011-03-10,,1964-08-04,"R$ 1.800,00"
+SINT-0238,Pessoa sintética 0238,ENGENHEIRO DE MANUTENÇÃO I,Empregado,Superior Completo,Demitido,2015-03-10,2026-06-30,1963-04-23,18500.0
+SINT-0239,Pessoa sintética 0239,GERENTE DE MARKETING,Diretor,Superior Incompleto,Trabalhando,2023-03-10,,2000-03-12,"R$ 6.800,00"
+SINT-0240,Pessoa sintética 0240,COMPRADOR,Estagiário,Ensino Médio Completo,Trabalhando,2002-03-10,,1982-11-20,950.0
+SINT-0021,Pessoa sintética 0021,ASSISTENTE ADMINISTRATIVO,Empregado,Ensino Fundamental Completo,Demitido,2024-03-10,2026-06-30,2004-12-04,"R$ 9.800,00"
